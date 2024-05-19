@@ -1,19 +1,32 @@
 ---
-title: "About"
-image: profile.jpg
+title: "about"
+image: "title-images/profile-5.jfif"
 about:
-  template: jolla
+  template: trestles
   links:
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com
+    - icon: bluesky
+      text: Bluesky
+      href: https://bsky.app/profile/anari.lostineconomics.com
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
+      href: https://www.linkedin.com/in/jun-sok-huhh-bb539a19/
     - icon: github
       text: Github
-      href: https://github.com
+      href: https://github.com/anarinsk
+---
+
+#### Who am I?
+
+허준석 Junsok Huhh | Ph.D. in Economics <br>
+Currently works as a data scientist (Pangyo, South Korea).
 
 ---
 
-About this blog
+안녕하세요. 허준석의 책과 활자만을 블로그입니다. 이 역시 본 블로그인 [lostineconomics]처럼 쓸데 없고 목적 없는 블로그입니다.
+블로그는 [Quarto](https://quarto.org)로 제작되었고, 페이지 호스팅은 [Github Pages](https://pages.github.com/)를 이용합니다.
+
+Hi, I'm Junsok Huhh. If you are interested in me, check [about](https://www.lostineconomics.com/about.html). This blog is serviced by [Quarto](https://quarto.org/) and [Github Pages](https://pages.github.com/).
+
+
+📕📕📕 삽화는 Bing의 [이미지 작성자](https://www.bing.com/images/create)에서 `a cat lost in something, digital art` 키워드로 생성되었습니다.</br>
+📖📖📖 폰트는 [SUIT](https://sunn.us/suit/), [SUITE](https://sunn.us/suite/), [Ligalex Mono](https://github.com/ToxicFrog/Ligaturizer/releases)의 웹폰트를 사용합니다. 
