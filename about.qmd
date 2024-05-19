@@ -22,7 +22,7 @@ Currently works as a data scientist (Pangyo, South Korea).
 
 ---
 
-안녕하세요. 허준석의 책과 활자만을 블로그입니다. 이 역시 본 블로그인 [lostineconomics]처럼 쓸데 없고 목적 없는 블로그입니다.
+안녕하세요. 허준석의 책과 활자만을 블로그입니다. 이 역시 본 블로그인 [lostineconomics](https://www.lostineconomics.com)처럼 쓸데 없고 목적 없는 블로그입니다.
 블로그는 [Quarto](https://quarto.org)로 제작되었고, 페이지 호스팅은 [Github Pages](https://pages.github.com/)를 이용합니다.
 
 Hi, I'm Junsok Huhh. If you are interested in me, check [about](https://www.lostineconomics.com/about.html). This blog is serviced by [Quarto](https://quarto.org/) and [Github Pages](https://pages.github.com/).
