@@ -7,6 +7,8 @@ website:
   favicon: "favicon.ico"
   navbar:
     right:
+      - text: "lostineconomics"
+        href: https://www.lostinbooks.club
       - about.qmd
       - icon: github
         href: https://github.com/anarinsk
