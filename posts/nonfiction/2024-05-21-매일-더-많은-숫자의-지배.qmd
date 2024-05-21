@@ -1,0 +1,37 @@
+---
+title: 미카엘 달렌, 헬게 토르비에른센, "매일, 더, 많은 숫자의 지배"
+description: 세상은 '게임'이 될 것이다! (나쁜 의미로...)
+author: "JS HUHH"
+date: "05/21/2024"
+image: "./images/book-cat.webp"
+categories: [nonfiction, social-science, technology]
+#fig-align: center
+#jupyter: python3
+draft: true
+format:
+  html:
+    code-line-numbers: true
+    highlight-style: arrow
+filters:
+   - lightbox
+   #- line-highlight
+lightbox: auto
+---
+
+::: columns
+
+::: {.column width="30%"}
+## The Book
+[![](https://image.aladin.co.kr/product/33414/26/cover500/e882532846_1.jpg)](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=334142643)
+:::
+
+:::{.column width="5%"}
+:::
+
+::: {.column width="65%"}
+## TL; DR
+- 모바일 기술은 이전에 기록되지 않았던 인간의 많은 것을 기록할 수 있게 되었다. 
+- 우리를 알기 위해 기록한 숫자가 거꾸로 인간의 사고, 행동, 판단을 지배할 수 있다. 
+- 정교하게 구성된 숫자로 세운 '게임' 제국은 앞으로 무엇으로 매력을 유지할까?
+:::
+:::
