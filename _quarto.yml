@@ -2,8 +2,8 @@ project:
   type: website
   output-dir: docs
 website:
-  title: "lostinbooks.club"
-  site-url: https://www.lostinbooks.club
+  title: "books.lostineconomics.com"
+  site-url: https://books.lostineconomics.com
   favicon: "favicon.ico"
   navbar:
     right:
