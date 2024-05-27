@@ -7,7 +7,7 @@ website:
   favicon: "favicon.ico"
   navbar:
     right:
-      - text: "lostineconomics"
+      - text: "www"
         href: https://www.lostineconomics.com
       - about.qmd
       - icon: github
