@@ -7,7 +7,7 @@ website:
   favicon: "favicon.ico"
   navbar:
     right:
-      - text: "www"
+      - text: "blog"
         href: https://www.lostineconomics.com
       - about.qmd
       - icon: github
@@ -18,7 +18,7 @@ website:
 format:
   html:
     include-before-body: "google_analytics.html"
-    theme: [flatly, anari-custom.scss] 
+    theme: [cosmo, anari-custom.scss] 
       #dark: [vapor, theme-dark.scss, anari-custom.scss]  
       #light: [vapor, theme.scss, anari-custom.scss]
   #css: styles.css
