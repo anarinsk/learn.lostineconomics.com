@@ -1,5 +1,5 @@
 ---
-title: "about"
+title: "About"
 image: "title-images/profile-5.jfif"
 about:
   template: trestles

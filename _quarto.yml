@@ -7,8 +7,8 @@ website:
   favicon: "favicon.ico"
   navbar:
     right:
-      - text: "blog"
-        href: https://www.lostineconomics.com
+      - text: "Blog"
+        href: https://blog.lostineconomics.com
       - about.qmd
       - icon: github
         href: https://github.com/anarinsk
