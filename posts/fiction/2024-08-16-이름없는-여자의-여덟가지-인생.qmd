@@ -3,7 +3,7 @@ title: 이미리내, "이름 없는 여자의 여덟 가지 인생"
 description: 미시사와 역사의 씨줄과 날줄 
 author: "JS HUHH"
 date: "08/16/2024"
-image: "./images/book-cat-4.webp"
+image: "./images/book-cat-5.webp"
 categories: [fiction, korean-author]
 #fig-align: center
 #jupyter: python3
