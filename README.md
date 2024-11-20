@@ -1,1 +1,1 @@
-# books.lostineconomics.com
+# learn.lostineconomics.com
