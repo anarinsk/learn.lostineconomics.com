@@ -24,6 +24,8 @@ format:
 :::
 
 ::: {.column width="65%"}
+
+## TR; DR
 - [몬티홀 문제](https://mixtape.scunning.com/02-probability_and_regression#monty-hall-example)
 :::
 :::
