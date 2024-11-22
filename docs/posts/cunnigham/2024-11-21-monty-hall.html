@@ -221,32 +221,29 @@ window.Quarto = {
 <section id="두괄식" class="level2">
 <h2 class="anchored" data-anchor-id="두괄식">두괄식</h2>
 <p>몬티홀 문제를 직관적으로 설명하기는 쉽지 않다. 그래도 해보자. 염소가 어느 문 뒤에 있는지 모르는 상태라면, 각 문에 염소가 있을 확률은 <span class="math inline">\(1/3\)</span>이다. 간단하다.</p>
-<p>그런데 진행자가 하나의 문을 개방했다. 이 사실이 정보를 담고 있느냐 아니냐가 핵심이다. 만일 정보를 담고 있지 않다면 여전히 <span class="math inline">\(1/3\)</span> 것이다. 하지만 쇼의 특성상 진행자의 행동은 반드시 담게 된다. 즉, 만일 진행자가 염소가 있는 문을 열어버리면 그 순간 쇼는 끝난다. 하지만 쇼의 재미상 진행자는 염소가 있는 문을 열지 않는다.</p>
-<p>이 사실을 알고 보면 문이 열린 상황에서 현재의 선택을 고수할 때 염소를 맞출 확률은 <span class="math inline">\(1/3\)</span>이다. 하지만 다른 문을 선택할 경우에는 <span class="math inline">\(2/3\)</span>이다.왜냐하면 선택을 바꾸면 문을 두 개 선택하는 것과 같기 때문이다.</p>
+<p>그런데 진행자가 하나의 문을 개방했다. 이 사실이 정보를 담고 있느냐 아니냐가 핵심이다. 만일 정보를 담고 있지 않다면, 문제의 확률은 여전히 <span class="math inline">\(1/3\)</span> 것이다. 하지만 쇼의 특성상 진행자의 행동은 반드시 어떤 정보를 담게 된다. 만일 진행자가 염소가 있는 문을 열어버리면 그 순간 쇼는 썰렁하게 끝난다. 쇼의 재미상 진행자는 염소가 있는 문을 절대 열지 않는다!</p>
+<p>현재의 선택을 고수하면, 염소를 맞출 확률은 여전히 <span class="math inline">\(1/3\)</span>이다. 하지만 다른 문을 선택할 경우에는 <span class="math inline">\(2/3\)</span>이다.왜냐하면 선택을 바꾸면 문을 두 개 선택하는 것과 같기 때문이다. 즉 선택을 바꾸게 되면 염소가 있을 확률이 0인 열린 문까지 함께 선택하는 것이 된다.</p>
 </section>
 <section id="정식화" class="level2">
 <h2 class="anchored" data-anchor-id="정식화">정식화</h2>
-<p>아래와 같이 사건을 정의하자.</p>
+<p>문제를 제대로 살펴보자. 아래와 같이 사건을 정의하자.</p>
 <ul>
 <li><span class="math inline">\(A_i\)</span>: 문<span class="math inline">\(i\)</span>에 염소가 있다.</li>
 <li><span class="math inline">\(B\)</span>: 염소가 없는 문 하나를 연다.</li>
 </ul>
 <p>문1 또는 문3 뒤에 염소가 있다고 하자. <span class="math inline">\(B\)</span>는 문2를 여는 사건을 나타낸다. 참가자가 문1을 선택했다고 하자. 각각 문1을 고수할 떄와 문3을 바꿀 때 염소가 있는 문을 뽑을 확률을 구해보자.</p>
 <p>조건부 확률은 아래와 같이 나타낼 수 있다.</p>
-<p><span class="math display">\[
-\begin{equation}
+<p><span class="math display">\[\begin{equation}
     \Pr(A \mid B) = \frac{\Pr(B \mid A) \Pr(A)}{\Pr(B \mid A) \Pr(A) + \Pr(B \mid \sim A) \Pr(\sim A)}
-\end{equation}
-\]</span></p>
+\end{equation}\]</span></p>
+<p>우리 문제에서는 사건이 3개이므로 다음과 같이 나타내보자.</p>
 <p>이를 적용해 <span class="math inline">\(\Pr(A_1 \mid B)\)</span>를 구해보자.</p>
-<p><span class="math display">\[
-\begin{align*}
+<p><span class="math display">\[\begin{align*}
     \Pr(A_1 \mid B) &amp;= \frac{\frac{1}{2} \cdot \frac{1}{3}}{\frac{1}{2} \cdot \frac{1}{3} + 0 \cdot \frac{1}{3} + 1.0 \cdot \frac{1}{3}} \\
     &amp;= \frac{\frac{1}{6}}{\frac{1}{6} + \frac{2}{6}} \\
     &amp;= \frac{1}{3}
-\end{align*}
-\]</span></p>
-<p><span class="math inline">\(\Pr(A_2 \mid B)\)</span>를 구해보자.</p>
+\end{align*}\]</span></p>
+<p><span class="math inline">\(\Pr(A_3 \mid B)\)</span>를 구해보자.</p>
 <p><span class="math display">\[\begin{align*}
     \Pr(A_3 \mid B) &amp;= \frac{\Pr(B \mid A_3) \Pr(A_3)}{\Pr(B \mid A_3) \Pr(A_3) + \Pr(B \mid A_2) \Pr(A_2) + \Pr(B \mid A_1) \Pr(A_1)} \\
     &amp;= \frac{1.0 \cdot \frac{1}{3}}{1.0 \cdot \frac{1}{3} + 0 \cdot \frac{1}{3} + \frac{1}{2} \cdot \frac{1}{3}} \\
