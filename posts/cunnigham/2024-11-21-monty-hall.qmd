@@ -3,7 +3,7 @@ title: 몬티홀 문제
 description: 두괄식으로 그리고 엄밀하게 
 author: "JS HUHH"
 date: "11/20/2024"
-image: "./images/cat-causal.webp"
+image: "./images/cat-monty.webp"
 categories: [econ, causal-inference, scott-cunningham]
 #fig-align: center
 #jupyter: python3
