@@ -2,7 +2,14 @@
   {
     "listing": "/index.html",
     "items": [
-      "/posts/cunnigham/2024-11-21-monty-hall.html"
+      "/posts/cunnigham/2024-11-21-monty-hall.html",
+      "/posts/statsquest-LM/2024-02-22-statquest-matrix.html",
+      "/posts/statsquest-LM/2024-02-16-statquest-attention.html",
+      "/posts/statsquest-LM/2024-02-15-statquest-seq2seq.html",
+      "/posts/statsquest-LM/2024-02-14-lstm.html",
+      "/posts/statsquest-LM/2024-02-13-statquest-rnn.html",
+      "/posts/statsquest-LM/2024-02-13-statquest-transformer.html",
+      "/posts/statsquest-LM/2024-02-07-statquest-w2v.html"
     ]
   }
 ]

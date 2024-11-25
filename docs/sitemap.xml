@@ -1,15 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://learn.lostineconomics.com/index.html</loc>
-    <lastmod>2024-11-25T09:12:04.503Z</lastmod>
+    <loc>https://learn.lostineconomics.com/about.html</loc>
+    <lastmod>2024-11-25T09:12:04.487Z</lastmod>
   </url>
   <url>
-    <loc>https://learn.lostineconomics.com/about.html</loc>
-    <lastmod>2024-11-20T06:25:46.226Z</lastmod>
+    <loc>https://learn.lostineconomics.com/posts/statsquest-LM/2024-02-22-statquest-matrix.html</loc>
+    <lastmod>2024-11-25T10:06:56.008Z</lastmod>
+  </url>
+  <url>
+    <loc>https://learn.lostineconomics.com/posts/statsquest-LM/2024-02-07-statquest-w2v.html</loc>
+    <lastmod>2024-11-25T10:07:50.548Z</lastmod>
+  </url>
+  <url>
+    <loc>https://learn.lostineconomics.com/posts/statsquest-LM/2024-02-13-statquest-transformer.html</loc>
+    <lastmod>2024-11-25T10:07:24.129Z</lastmod>
+  </url>
+  <url>
+    <loc>https://learn.lostineconomics.com/posts/statsquest-LM/2024-02-15-statquest-seq2seq.html</loc>
+    <lastmod>2024-11-25T10:07:08.497Z</lastmod>
   </url>
   <url>
     <loc>https://learn.lostineconomics.com/posts/cunnigham/2024-11-21-monty-hall.html</loc>
-    <lastmod>2024-11-25T09:48:48.477Z</lastmod>
+    <lastmod>2024-11-25T10:04:50.606Z</lastmod>
+  </url>
+  <url>
+    <loc>https://learn.lostineconomics.com/posts/statsquest-LM/2024-02-16-statquest-attention.html</loc>
+    <lastmod>2024-11-25T10:06:51.220Z</lastmod>
+  </url>
+  <url>
+    <loc>https://learn.lostineconomics.com/posts/statsquest-LM/2024-02-14-lstm.html</loc>
+    <lastmod>2024-11-25T10:07:16.096Z</lastmod>
+  </url>
+  <url>
+    <loc>https://learn.lostineconomics.com/posts/statsquest-LM/2024-02-13-statquest-rnn.html</loc>
+    <lastmod>2024-11-25T10:07:30.614Z</lastmod>
+  </url>
+  <url>
+    <loc>https://learn.lostineconomics.com/index.html</loc>
+    <lastmod>2024-11-25T09:12:04.503Z</lastmod>
   </url>
 </urlset>

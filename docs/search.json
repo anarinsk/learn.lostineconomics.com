@@ -1,17 +1,178 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "learn.lostineconomics.com",
-    "section": "",
-    "text": "몬티홀 문제\n\n\n\n\n\n\necon\n\n\ncausal-inference\n\n\nscott-cunningham\n\n\n\n두괄식으로 그리고 엄밀하게\n\n\n\n\n\nNov 20, 2024\n\n\nJS HUHH\n\n\n\n\n\n\nNo matching items"
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
     "text": "Who am I?\n허준석 Junsok Huhh | Ph.D. in Economics  Currently works as a data scientist (Pangyo, South Korea).\n\n안녕하세요. 허준석의 책과 활자만을 위한 블로그입니다. 이 블로그 역시 lostineconomics처럼 쓸데 없고 목적 없는 블로그입니다.블로그는 Quarto로 제작되었고, 페이지 호스팅은 Github Pages를 이용합니다.\nHi, I’m Junsok Huhh. This blog is only for the books. That’s all. If you are interested in me, check about. This blog is serviced by Quarto and Github Pages.\n📕📕📕 삽화는 Bing의 이미지 작성자에서 a cat lost in something, digital art 키워드로 생성되었습니다. 📖📖📖 폰트는 SUIT, SUITE, Ligalex Mono의 웹폰트를 사용합니다."
+  },
+  {
+    "objectID": "posts/statsquest-LM/2024-02-22-statquest-matrix.html",
+    "href": "posts/statsquest-LM/2024-02-22-statquest-matrix.html",
+    "title": "Matrix Algebra and Neural Networks",
+    "section": "",
+    "text": "선형대수는 인생을 쉽게 하지~"
+  },
+  {
+    "objectID": "posts/statsquest-LM/2024-02-22-statquest-matrix.html#tl-dr",
+    "href": "posts/statsquest-LM/2024-02-22-statquest-matrix.html#tl-dr",
+    "title": "Matrix Algebra and Neural Networks",
+    "section": "",
+    "text": "선형대수는 인생을 쉽게 하지~"
+  },
+  {
+    "objectID": "posts/statsquest-LM/2024-02-22-statquest-matrix.html#넋두리",
+    "href": "posts/statsquest-LM/2024-02-22-statquest-matrix.html#넋두리",
+    "title": "Matrix Algebra and Neural Networks",
+    "section": "넋두리",
+    "text": "넋두리\n선형대수는 딥러닝 알고리즘 과정을 묘사하고 이해는데 편리하고 간결한 표현 형식을 제공한다. 강의의 내용을 살펴보자."
+  },
+  {
+    "objectID": "posts/statsquest-LM/2024-02-22-statquest-matrix.html#행렬의-본질",
+    "href": "posts/statsquest-LM/2024-02-22-statquest-matrix.html#행렬의-본질",
+    "title": "Matrix Algebra and Neural Networks",
+    "section": "행렬의 본질",
+    "text": "행렬의 본질\n행렬을 함수로 이해하면 좋다. 즉, 어떤 인풋이 있을 때 이를 이렇게 저렇게 변형하는 것이 형렬의 역할이다.\n\n\n\n\n\n\n\n\n\n행렬은 변형\n\n\n\n\n \n\n\n\n\n\n행렬 곱은 합성함수와 유사하다"
+  },
+  {
+    "objectID": "posts/statsquest-LM/2024-02-22-statquest-matrix.html#뉴럴넷을-행렬-연산으로-표현하기",
+    "href": "posts/statsquest-LM/2024-02-22-statquest-matrix.html#뉴럴넷을-행렬-연산으로-표현하기",
+    "title": "Matrix Algebra and Neural Networks",
+    "section": "뉴럴넷을 행렬 연산으로 표현하기",
+    "text": "뉴럴넷을 행렬 연산으로 표현하기\n\n\n\n\n\n\n\n\n\n아래의 뉴럴넷은 위의 행렬 연산\n\n\n\n\n \n\n\n\n\n\n매트릭스 표현"
+  },
+  {
+    "objectID": "posts/statsquest-LM/2024-02-22-statquest-matrix.html#pytorch의-사례-보기",
+    "href": "posts/statsquest-LM/2024-02-22-statquest-matrix.html#pytorch의-사례-보기",
+    "title": "Matrix Algebra and Neural Networks",
+    "section": "pytorch의 사례 보기",
+    "text": "pytorch의 사례 보기\n파이토치 설명 중에서 다음과 같은 대목이 눈에 띈다.\n\n\n\n\n\n\n\n\n\n선형 결합으로 구성된 뉴럴넷\n\n\n\n\n \n\n\n\n\n\n뉴럴넷의 선형적 의미"
+  },
+  {
+    "objectID": "posts/statsquest-LM/2024-02-22-statquest-matrix.html#어텐션의-행렬-표현",
+    "href": "posts/statsquest-LM/2024-02-22-statquest-matrix.html#어텐션의-행렬-표현",
+    "title": "Matrix Algebra and Neural Networks",
+    "section": "어텐션의 행렬 표현",
+    "text": "어텐션의 행렬 표현\n어텐션도 네트워크로 그리면 복잡하지만 행렬로 표현하면 간단하다!\n\n\n\n\n\n\n\n\n\n어텐션의 행렬 표현\n\n\n\n\n \n\n\n\n\n\n풀어보면 이렇다!"
+  },
+  {
+    "objectID": "posts/statsquest-LM/2024-02-07-statquest-w2v.html",
+    "href": "posts/statsquest-LM/2024-02-07-statquest-w2v.html",
+    "title": "Word2Vec",
+    "section": "",
+    "text": "w2v의 기본 아이디어 위주로 정리해 보자."
+  },
+  {
+    "objectID": "posts/statsquest-LM/2024-02-07-statquest-w2v.html#tl-dr",
+    "href": "posts/statsquest-LM/2024-02-07-statquest-w2v.html#tl-dr",
+    "title": "Word2Vec",
+    "section": "",
+    "text": "w2v의 기본 아이디어 위주로 정리해 보자."
+  },
+  {
+    "objectID": "posts/statsquest-LM/2024-02-07-statquest-w2v.html#넋두리",
+    "href": "posts/statsquest-LM/2024-02-07-statquest-w2v.html#넋두리",
+    "title": "Word2Vec",
+    "section": "넋두리",
+    "text": "넋두리\n이른바 NLP의 주요한 돌파구가 된 것이 w2v의 아이디어다. 요즘 유행하는 트랜스포머 알고리즘 또한 그 시작은 w2v에 있다. 원래의 w2v의 형태로 실전에 활용되는 경우는 거의 없겠지만, 그 기본 아이디어는 여전히 새겨볼 만하다."
+  },
+  {
+    "objectID": "posts/statsquest-LM/2024-02-07-statquest-w2v.html#word-to-vector",
+    "href": "posts/statsquest-LM/2024-02-07-statquest-w2v.html#word-to-vector",
+    "title": "Word2Vec",
+    "section": "Word to Vector",
+    "text": "Word to Vector\n컴퓨터는 당연히 사람의 언어를 ‘그대로’ 알아들을 수 없다. 컴퓨터가 언어를 이해하기 위해서는 언어를 먼저 숫자로 바꿔야 한다. 이렇게 말(단어, 문장, 문단)을 숫자로 바꾸는 작업이 w2v의 거의 전부이다.\n\n\n\n\n\n\n \n\n\n\n\n\n네 개의 단어를 숫자로 바꾸자.\n\n\n\n\n \n\n\n\n중요한 것은 ‘어떻게’ 바꾸는지에 있다. 우선 강의 슬라이드에 나온 대로 “Troll 2”, “is”, “great”, “Gymkata” 네 개의 단어를 생각해 보자.\n가장 쉬운 방법은 해당 단어들에 임의로 숫자를 부여하는 것이다. 이렇게 숫자를 부여하면 컴퓨터에 넣을 수는 있다. 다만 이렇게 부여된 숫자가 의미 있는 정보일까? 아니다. 인간의 언어가 지닌 ’의미’를 되도록 가깝게 컴퓨터로 옮기려면 말이 지니는 관계 혹은 말 사이의 연결망까지 모두 숫자에 반영되어야 한다.\n\n왜 word to number가 아니라, vector일지 먼저 따져보자. 인간의 언어는 하나의 의미만 지니지 않고 다양한 의미를 지니고 있다. 이를 반영하기 위해서는 스칼라 숫자 하나로는 부족할 것이다. 벡터의 등장은 이런 점에서 타당하다.\n다음으로는 비슷한 의미를 지니는 말들이 서로 비슷한 값을 지니면 좋을 것이다. 언어의 원래 의미가 벡터에도 잘 반영되어야 한다는 뜻이다. 스칼라 값이 아니므로 벡터 사이의 유사도 즉 코사인 유사도 등을 활용하면 되겠다."
+  },
+  {
+    "objectID": "posts/statsquest-LM/2024-02-07-statquest-w2v.html#neural-net",
+    "href": "posts/statsquest-LM/2024-02-07-statquest-w2v.html#neural-net",
+    "title": "Word2Vec",
+    "section": "Neural Net",
+    "text": "Neural Net\n\n\n\n\n\n\n\n\n\n신경망의 구성\n\n\n\n\n \n\n\n\n\n\n나올 단어 예측\n\n\n\n\n\n\n \n\n\n신경망의 투입이 예측(뒤에 나올 단어)을 잘 맞출 수 있도록 네트워크의 웨이트와 바이어스를 조율해나간다\n\n\n \n\n\n\n이제 신경망을 구성해서 학습을 시킬 차례다. 투입은 당연히 각 단어의 벡터이다. 해당 단어만을 1로 처리하고 나머지를 0으로 둔다. 산출 즉 아웃풋은 뒤에 나올 단어의 예측치가 된다. 이 뉴럴넷을 학습시킬 때 좋은 결과란 뒤에 나올 말을 잘 맞추는 것이다.\n물론 실전 뉴럴넷의 파라미터 차원이 훨씬 복잡하다. 그림에서 보듯이 학습에 단어 3백만 개와 100개의 액티베이션 펑션이 있다고 하자. 아래 그림에 보듯이, 3백만 X 100 X 2 해서 6억 개의 웨이트가 필요하다."
+  },
+  {
+    "objectID": "posts/statsquest-LM/2024-02-07-statquest-w2v.html#negative-sampling",
+    "href": "posts/statsquest-LM/2024-02-07-statquest-w2v.html#negative-sampling",
+    "title": "Word2Vec",
+    "section": "Negative Sampling",
+    "text": "Negative Sampling\n\n\n\n\n\n\n\n\n\n전체 학습하면 자원의 낭비가 막심\n\n\n\n\n \n\n\n\n\n\nDivide and Conquer!\n\n\n\n\n\n\n \n\n\n“A”를 예측하기 위해서 “aardvark”, “abandon”만을 남긴다. 산출에서 “aardvark”도 고려하지 않아도 된다. 이렇게 하면 학습해야 할 웨이트의 수가 300개로 줄어든다.\n\n\n \n\n\n\n이 녀석들을 한방에 학습시키려면 너무 오랜 시간과 자원이 소모될 것이다. 그래서 조금 꼼수를 고안해볼 수 있을 것이다. 특정 단어를 예측하는데 필요한 단어를 임의로 선택하고 이 녀석의 연결망만 학습시키는 것이다. 이를 negative sampling이라고 한다."
+  },
+  {
+    "objectID": "posts/statsquest-LM/2024-02-13-statquest-transformer.html",
+    "href": "posts/statsquest-LM/2024-02-13-statquest-transformer.html",
+    "title": "Transformer",
+    "section": "",
+    "text": "Transformer를 급히 찍먹한다."
+  },
+  {
+    "objectID": "posts/statsquest-LM/2024-02-13-statquest-transformer.html#tl-dr",
+    "href": "posts/statsquest-LM/2024-02-13-statquest-transformer.html#tl-dr",
+    "title": "Transformer",
+    "section": "",
+    "text": "Transformer를 급히 찍먹한다."
+  },
+  {
+    "objectID": "posts/statsquest-LM/2024-02-13-statquest-transformer.html#인풋과-아웃풋의-크기가-다를-때",
+    "href": "posts/statsquest-LM/2024-02-13-statquest-transformer.html#인풋과-아웃풋의-크기가-다를-때",
+    "title": "Transformer",
+    "section": "인풋과 아웃풋의 크기가 다를 때",
+    "text": "인풋과 아웃풋의 크기가 다를 때\nRNN은 CNN과 달리\n\n\n\n\n\n\n \n\n\n\n\n\n기본 인코딩 세팅은 그림과 같다."
+  },
+  {
+    "objectID": "posts/statsquest-LM/2024-02-13-statquest-transformer.html#four-key-components",
+    "href": "posts/statsquest-LM/2024-02-13-statquest-transformer.html#four-key-components",
+    "title": "Transformer",
+    "section": "Four Key Components",
+    "text": "Four Key Components\n트랜스포머는 크게 4가지의 구성요소로 이루어져 있다.\n\nPositional Encoding\nSelf-Attention Mechanism\nEncoder\nDecoder\n\n\nPositional Encoding\n단어의 위치를 인코딩하는 방법이다. 여러가지 방법이 있지만 사인-코사인 커브를 사용하는 것이 제일 일반적이라고 한다. 언뜻 보면 이해가 가지 않지만 사인 코사인의 파동 값을 활용하면 별다른 정보 손실 없이 벡터로 토큰의 위치 정보를 잘 반영할 수 있다.\n\n\n\n\n\n\n\n\n\n포지셔널 인코딩은 그림과 같이 수행한다.\n\n\n\n\n \n\n\n\n\n\n“+” 그림은 포지너설 인코딩을 의미한다.\n\n\n\n\n\n\n\nSelf-Attention Mechanism\n자신을 포함해서 단어 사이의 유사도를 계산한다.\n\n\n\n\n\n\n \n\n\n\n\n\n자신을 포함해서 문장 내 단어 사이의 유사도를 추적하자.\n\n\n\n\n \n\n\n\n세 가지 하부 요소가 있다.\n\nQueries: 각 단어 자체를 표현하는 뉴럴넷의 중간 결과\nKeys: 각 단어와 다른 단어를 비교할 때 활용할 뉴럴넷의 중간 결과\nValues: 각 단어의 셀프 어텐션을 거친 중요도를 표현하는 뉴럴넷의 (중간) 결과\n\n쿼리와 키의 닷프로덕트를 구하면 스칼라 값을 얻게 된다. 이 녀석을 다시 softmax 함수에 넣어 정규화한 후 이 값을 세번째 구성요소인 Value를 거치도록 한다.\n\n\n\n\n\n\n \n\n\n\n\n\n셀프 어텐션 인코딩 과정\n\n\n\n\n \n\n\n\n그림을 보면서 다시 한번 확인하자. 위 그림은 “let’s”가 자신 및 “go”와의 셀프 어텐션을 고려하여 Query, Key, Value를 계산하는 과정을 보여준다.\n같은 방식으로 “go”에 대해서도 계산을 수행한다. 여기서 중요한 대목이 나온다. “go”에 대해서 인코딩을 할 때 Query, Key, Value의 웨이트를 “Let’s” 때 썼던 것을 그대로 활용한다. 한 문장 안에서 단어의 의미가 맺고 있는 연결망이 같다고 보면다면 재활용이 가능하다. 그리고 이 때문에 병렬화가 가능하다! 즉 RNN처럼 앞부터 순차적으로 계산할 필요성이 사라지는 것이다.\n\n\n정리\n\n\n\n\n\n\n\n\n\n트랜스포머 인코딩의 4단계\n\n\n\n\n \n\n\n\n\n\n병렬화가 가능하다!\n\n\n\n\n\n\nWord Embedding: 단어를 벡터로 표현한다.\nPositional Encoding: 단어의 위치를 인코딩한다.\nSelf-Attention Mechanism: 단어 사이의 유사도를 계산한다.\nResidual Connection\n\n\n\nComments\n\n\n\n\n\n\n\n\n\n멀티-헤드 어텐션\n\n\n\n\n \n\n\n\n\n\nResidual Connection\n\n\n\n\n\n\n \n\n\n멀티-헤드 어텐션은 같은 단어가 여러 개의 의미를 지니는 경우를 위해 필요하다. 몇 개를 설정해야 하는지는 흑마술이다. 원활한 학습을 도모하기 위해서 워드 임베딩과 포지셔널 임베딩의 벡터를 더하는 것이 residual connection의 역할이다.\n\n\n \n\n\n\n만일 셀프 어텐션에서 같은 언어끼리라도 문장에서 서로 다른 의미망을 지닐 수 있다면 여러 개의 어텐션 유닛이 필요할 것이다. 이를 multi-head attention이라고 한다."
+  },
+  {
+    "objectID": "posts/statsquest-LM/2024-02-13-statquest-transformer.html#decoder",
+    "href": "posts/statsquest-LM/2024-02-13-statquest-transformer.html#decoder",
+    "title": "Transformer",
+    "section": "Decoder",
+    "text": "Decoder\n강의는 영어-스페인어의 번역의 맥락을 살펴보고 있다. 따라서 스페인어의 인코딩에서 시작한다.\n스페인어에 대해서 4단계의 트랜스포머 셀프-어텐션 프로세스를 마치고 어텐션 아웃풋을 얻는다. 인코딩의 과정이 기본적으로 동일하다. 다만 서로 다른 구조(언어)의 문장이므로 각 단계에 활용되는 웨이트는 다르다.\n\n\n\n\n\n\n \n\n\n\n\n\n디코더에 들어갈 인풋의 인코딩"
+  },
+  {
+    "objectID": "posts/statsquest-LM/2024-02-13-statquest-transformer.html#encoder-decoder-attention",
+    "href": "posts/statsquest-LM/2024-02-13-statquest-transformer.html#encoder-decoder-attention",
+    "title": "Transformer",
+    "section": "Encoder-Decoder Attention",
+    "text": "Encoder-Decoder Attention\n이제 이 두 개의 어텐션을 엮을 차례다. 어텐션 밸류가 생성된 디코더를 쿼리 자리에 넣고 인코더의 키를 활용해서 결과를 얻는다.\n\n\n\n\n\n\n\n\n\n인코더-디코더 어텐션\n\n\n\n\n \n\n\n\n\n\n인코더-디코더 어텐션 밸류 아웃풋\n\n\n\n\n\n인코더-디코더 어텐션의 아웃풋이 생성되고 난 후 마지막에 뉴럴넷을 통해서 스페인어 아웃풋을 산출한다. &lt;EOS&gt;(End of Sentence)까지 투입을 마치면 한 문장에 관한 번역이 완료된다."
+  },
+  {
+    "objectID": "posts/statsquest-LM/2024-02-15-statquest-seq2seq.html",
+    "href": "posts/statsquest-LM/2024-02-15-statquest-seq2seq.html",
+    "title": "Sequence to Sequence Model",
+    "section": "",
+    "text": "생성형 모델의 원조 같은 seq2seq 모델을 배워보자."
+  },
+  {
+    "objectID": "posts/statsquest-LM/2024-02-15-statquest-seq2seq.html#tl-dr",
+    "href": "posts/statsquest-LM/2024-02-15-statquest-seq2seq.html#tl-dr",
+    "title": "Sequence to Sequence Model",
+    "section": "",
+    "text": "생성형 모델의 원조 같은 seq2seq 모델을 배워보자."
+  },
+  {
+    "objectID": "posts/statsquest-LM/2024-02-15-statquest-seq2seq.html#넋두리",
+    "href": "posts/statsquest-LM/2024-02-15-statquest-seq2seq.html#넋두리",
+    "title": "Sequence to Sequence Model",
+    "section": "넋두리",
+    "text": "넋두리\n비로소 (트랜스포머까지 이르는) ’목전’까지 온 느낌이다. Seq2Seq 모델은 이쪽의 정보를 압축해서 저쪽에 보내고 이를 다시 저쪽의 맥락에서 풀어내는 것을 의미한다. 전형적으로 ’번역’을 생각하면 되겠다. 강의 역시 영어 “Let’s go!”를 스페인어 “Vamos!”로 번역하는 과정을 예시로 들고 있다."
+  },
+  {
+    "objectID": "posts/statsquest-LM/2024-02-15-statquest-seq2seq.html#context-vector",
+    "href": "posts/statsquest-LM/2024-02-15-statquest-seq2seq.html#context-vector",
+    "title": "Sequence to Sequence Model",
+    "section": "Context Vector",
+    "text": "Context Vector\n인코딩 파트의 그림을 잘 보자. 몇 가지 요소들을 확인할 수 있다.\n\n맨 아래 워드 임베딩이 포함되어 있음을 알 수 있다. 이는 언어를 숫자로 바꾸는 과정이다.\nLSTM은 두 개의 레이어로 이루어져 있고, 각 레이어의 셀(노드)은 2개로 구성되어 있다.\n\n이렇게 인코딩을 통해 만들어진 정보를 컨텍스트 벡터라고 부른다. 이 녀석을 활용해서 디코더에 초깃값을 부여한다.\n\n\n\n\n\n\n\n\n\n인코더 만들기\n\n\n\n\n \n\n\n\n\n\n컨텍스트 벡터"
+  },
+  {
+    "objectID": "posts/statsquest-LM/2024-02-15-statquest-seq2seq.html#decoder",
+    "href": "posts/statsquest-LM/2024-02-15-statquest-seq2seq.html#decoder",
+    "title": "Sequence to Sequence Model",
+    "section": "Decoder",
+    "text": "Decoder\n\n\n\n\n\n\n\n\n\n인코더와 디코더의 웨이트와 바이어스; 둘은 서로 다른 네트워크이고 파라미터도 다르다.\n\n\n\n\n \n\n\n\n\n\n디코더의 인풋; 디코딩의 맥락에서 필요한 단어를 임베딩해서 이 녀석을 투입으로 사용한다.\n\n\n\n\n\n\nWord Embedding for Encoder and Decoder\n인코딩과 디코딩이라고 생각하면 각각 인코딩에서 인풋을 디코딩에서 아웃풋을 처리하는 이미지를 떠올릴 수 있다. 하지만 ’번역’의 맥락에서 인코딩은 인코딩되는 세계의 단어의 정보를 압축하는 것이고 디코딩이란 이 정보에 기반해서 디코딩 세계의 단어의 정보로 풀어내는 것을 의미한다. 따라서 인코딩과 디코딩 각각에 대해서 워드 임베딩이 필요하고, 물론 각각의 웨이트와 바이어스 역시 다르다.\n\n\n\n\n\n\n \n\n\n\n\n\n워드 임베딩\n\n\n\n\n \n\n\n\n\n\nWord Unembedding?\n디코더의 끝단에에서는 디코딩된 정보를 다시 말로 풀어주는 과정이 필요하다. 이는 워드 ㅇㅁ베딩의 역과정이라고 생각하면 된다.\n\n\n\n\n\n\n \n\n\n\n\n\n디코딩의 벡터를 다시 단어로\n\n\n\n\n \n\n\n\n\n\n&lt;EOS&gt; 사용하기\n디코딩에서는 &lt;EOS&gt;를 먼저 넣는다. 그리고 디코딩 프로세스는 &lt;EOS&gt;가 나올 때까지 계속한다.\n\n\n\n\n\n\n\n\n\n&lt;EOS&gt;에서 시작!\n\n\n\n\n \n\n\n\n\n\n&lt;EOS&gt;가 풀려 나올 때까지\n\n\n\n\n \n\n\n\n\n\n전체 과정"
   },
   {
     "objectID": "posts/cunnigham/2024-11-21-monty-hall.html",
@@ -40,5 +201,131 @@
     "title": "몬티홀 문제",
     "section": "정식화",
     "text": "정식화\n문제를 제대로 살펴보자. 아래와 같이 사건을 정의하자.\n\n\\(A_i\\): 문\\(i\\)에 염소가 있다.\n\\(B\\): 염소가 없는 문 하나를 연다.\n\n문1 또는 문3 뒤에 염소가 있다고 하자. \\(B\\)는 문2를 여는 사건을 나타낸다. 참가자가 문1을 선택했다고 하자. 각각 문1을 고수할 떄와 문3을 바꿀 때 염소가 있는 문을 뽑을 확률을 구해보자.\n조건부 확률은 아래와 같이 나타낼 수 있다.\n\\[\\begin{equation}\n    \\Pr(A \\mid B) = \\frac{\\Pr(B \\mid A) \\Pr(A)}{\\Pr(B \\mid A) \\Pr(A) + \\Pr(B \\mid \\sim A) \\Pr(\\sim A)}\n\\end{equation}\\]\n우리 문제에서는 사건이 3개이므로 다음과 같이 나타내보자.\n이를 적용해 \\(\\Pr(A_1 \\mid B)\\)를 구해보자. \\(\\sim A\\)를 두 개의 사건(\\(A_2, A_3\\))로 쪼개서 확률을 구하면 된다.\n\\[\\begin{align*}\n    \\Pr(A_1 \\mid B) &= \\frac{\\frac{1}{2} \\cdot \\frac{1}{3}}{\\frac{1}{2} \\cdot \\frac{1}{3} + 0 \\cdot \\frac{1}{3} + 1.0 \\cdot \\frac{1}{3}} \\\\\n    &= \\frac{\\frac{1}{6}}{\\frac{1}{6} + \\frac{2}{6}} \\\\\n    &= \\frac{1}{3}\n\\end{align*}\\]\n\\(\\Pr(A_3 \\mid B)\\)를 구해보자.\n\\[\\begin{align*}\n    \\Pr(A_3 \\mid B) &= \\frac{\\Pr(B \\mid A_3) \\Pr(A_3)}{\\Pr(B \\mid A_3) \\Pr(A_3) + \\Pr(B \\mid A_2) \\Pr(A_2) + \\Pr(B \\mid A_1) \\Pr(A_1)} \\\\\n    &= \\frac{1.0 \\cdot \\frac{1}{3}}{1.0 \\cdot \\frac{1}{3} + 0 \\cdot \\frac{1}{3} + \\frac{1}{2} \\cdot \\frac{1}{3}} \\\\\n    &= \\frac{2}{3}\n\\end{align*}\\]"
+  },
+  {
+    "objectID": "posts/statsquest-LM/2024-02-16-statquest-attention.html",
+    "href": "posts/statsquest-LM/2024-02-16-statquest-attention.html",
+    "title": "Attention Model",
+    "section": "",
+    "text": "어텐션을 반영하는 하나의 방법을 살펴보자."
+  },
+  {
+    "objectID": "posts/statsquest-LM/2024-02-16-statquest-attention.html#tl-dr",
+    "href": "posts/statsquest-LM/2024-02-16-statquest-attention.html#tl-dr",
+    "title": "Attention Model",
+    "section": "",
+    "text": "어텐션을 반영하는 하나의 방법을 살펴보자."
+  },
+  {
+    "objectID": "posts/statsquest-LM/2024-02-16-statquest-attention.html#넋두리",
+    "href": "posts/statsquest-LM/2024-02-16-statquest-attention.html#넋두리",
+    "title": "Attention Model",
+    "section": "넋두리",
+    "text": "넋두리\nLSTM은 단기와 장기의 기억을 나눠서 전달함으로써 RNN이 지는 문제점을 극복하고자 했다. 하지만 여전히 남는 문제가 있었으니, 언어에 따라서 혹은 표현에 따라서 거리가 많이 떨어지는 정보값이 중요해지는 경우가 종종 존재한다.\n아래의 그림을 보자.\n\n\n\n\n\n\n\n\n\n맨 앞의 토큰이 문장 전체의 의미에 가장 중요하다.\n\n\n\n\n \n\n\n\n\n\nLSTM의 실패; 인코딩이 길어지면 앞에 정보가 소실될 수 있다.\n\n\n\n\n \n\n\n\n\n\n인코더의 정보를 디코더로 직접 넘겨주면 어떨까?"
+  },
+  {
+    "objectID": "posts/statsquest-LM/2024-02-16-statquest-attention.html#어텐션이란-무엇인가",
+    "href": "posts/statsquest-LM/2024-02-16-statquest-attention.html#어텐션이란-무엇인가",
+    "title": "Attention Model",
+    "section": "어텐션이란 무엇인가?",
+    "text": "어텐션이란 무엇인가?\n인코더-디코더 모델을 생각해보자. 결국 인코더의 특정 정보와 디코더의 특정 정보가 얼마나 비슷한지가 문제의 핵셤이다. 만일 둘이 비슷하다면 생성에서 이를 더 강하게 반영하는 것이 맞을 것이다. 인코딩에서 강조된 내용이 디코딩에서도 강조되도록 해야 한다.\n핵심은 인코딩과 디코딩 정보의 유사성을 측정하는 데 있다. 측정에는 여러가지 방법이 있을 것인데, 강의에서는 코사인 유사도를 사용한다. 우리는 벡터를 다루고 있고 두 벡터 사이의 비슷한 정도를 측정하는 데에는 코사인 유사도만한 것이 없다.\n\n코사인 유사도 대신 닷 프로덕트\n코사인 유사도의 원래 정의는 다음과 같다. 크기가 같은 벡터 \\(a_i\\), \\(b_i\\)가 있다고 하자.\n\\[\n\\text{Cosine Similarity} = \\dfrac{\\sum_{i=1}^n a_i b_i}{\\sqrt{\\sum_{i=1}^n a_i^2} \\sqrt{\\sum_{i=1}^n b_i^2}}\n\\]\n식에서 분모는 위의 닷 프로덕트(내적)의 크기를 조절해주는 역할이다. 이 덕분에 코사인 유사도는 그 이름에 걸맞게 \\([-1, 1]\\) 사이의 값을 지니게 된다. 스케일링이 필요한 이유는 개별 벡터의 값이 닷 프로덕트에서 지니게 되는 값의 효과를 통제하기 위해서다. 그런데 앞에서 보듯이 LSTM의 경우에는 산출되는 벡터의 값이 \\([-1,1]\\)사이를 벗어날 수 없다. 따라서 분모는 무시하고 분자만 다루도록 하자."
+  },
+  {
+    "objectID": "posts/statsquest-LM/2024-02-16-statquest-attention.html#어텐션-구현하기",
+    "href": "posts/statsquest-LM/2024-02-16-statquest-attention.html#어텐션-구현하기",
+    "title": "Attention Model",
+    "section": "어텐션 구현하기",
+    "text": "어텐션 구현하기\n아래 왼쪽 그림을 보자. 인코더의 첫번째 셀의 벡터와 디코더의 첫번째 셀의 결과의 코사인 유사도를 먼저 후간다. 같은 방식으로 두번째 셀의 벡터와 디코더의 첫번째 셀의 결과의 코사인 유사도를 구한다.\n오른쪽 그림처럼 이렇게 구한 코사인 유사도가 일정의 어텐션의 지표가 된다.\n\n\n\n\n\n\n\n\n\n어텐션 구현하기 1\n\n\n\n\n \n\n\n\n\n\n어텐션 구현하기 2\n\n\n\n\n\n이제 이렇게 확보된 어텐션 지표가 디코딩에서 직접 활용된다. 해당 지표를 소프트맥스 처리하고 이를 다시 인코더의 정보와 결합한 뒤 스페인 어로 풀어 놓는다. 여기서 소프트맥스 처리된 코사인 유사도는 인코더의 정보를 어느 정도의 비중으로 반영해야 하는지를 결정한다. 물론 앞서와 마찬가지로 &lt;EOS&gt;가 산출될 때까지 이 과정을 반복한다.\n\n\n\n\n\n\n\n\n\n어텐션을 반영한 디코딩 워드 생성 1\n\n\n\n\n \n\n\n\n\n\n어텐션을 반영한 디코딩 워드 생성 2"
+  },
+  {
+    "objectID": "posts/statsquest-LM/2024-02-16-statquest-attention.html#seq2seq-모델과-비교하기",
+    "href": "posts/statsquest-LM/2024-02-16-statquest-attention.html#seq2seq-모델과-비교하기",
+    "title": "Attention Model",
+    "section": "Seq2Seq 모델과 비교하기",
+    "text": "Seq2Seq 모델과 비교하기\n아래 그림에서 보듯이 Seq2Seq 모델에 비해서 인코딩의 정보가 디코딩에 직접적으로 영향을 끼치는 것을 알 수 있다.\n\n\n\n\n\n\n\n\n\n어텐션을 반영한 인코더-디코더 과정\n\n\n\n\n \n\n\n\n\n\nseq2seq 인코더-디코더 과정"
+  },
+  {
+    "objectID": "posts/statsquest-LM/2024-02-14-lstm.html",
+    "href": "posts/statsquest-LM/2024-02-14-lstm.html",
+    "title": "Long Short-Term Memory (LSTM) Network",
+    "section": "",
+    "text": "LSTM을 찍먹해보자."
+  },
+  {
+    "objectID": "posts/statsquest-LM/2024-02-14-lstm.html#tl-dr",
+    "href": "posts/statsquest-LM/2024-02-14-lstm.html#tl-dr",
+    "title": "Long Short-Term Memory (LSTM) Network",
+    "section": "",
+    "text": "LSTM을 찍먹해보자."
+  },
+  {
+    "objectID": "posts/statsquest-LM/2024-02-14-lstm.html#넋두리",
+    "href": "posts/statsquest-LM/2024-02-14-lstm.html#넋두리",
+    "title": "Long Short-Term Memory (LSTM) Network",
+    "section": "넋두리",
+    "text": "넋두리\nRNN의 가장 큰 문제는 웨이트의 크기에 따라서 효과가 지나치게 증폭되거나 지나치게 줄어드는 데 있다. 경사하강법을 사용할 때 최적 파라미터의 범위가 지나치게 크게 변하거나 지나치게 작게 변하면 원활한 최적화가 어렵다. 이러한 문제를 막기 위해 웨이트의 크기가 제한된다면 이는 그 자체로 최적화에 위배된다. 이러한 문제를 완화하기 위해 제안된 네트워크 구조가 LSTM이다.\n이걸 조금 말로 풀어보자. Long Short-term Memory란 말 그대로 과거의 정보가 미래로 전달되는 경로를 장기와 단기로 나누겠다는 것이다. 아래 기본 구조에서 보듯이 시점 혹은 노드의 중요도에 따라서 해당 노드가 뒤에 올 노드에 미치는 영향의 정도가 다를 수 있다. 그런데 RNN은 하나의 단일한 엣지 혹은 경로를 통해서 두 가지 정보, 즉 해당 노드가 바로 다음에 오는 노드에 미치는 영향과 더 멀리 떨어진 노드에 미치는 영향을 하나로 뭉쳐서 전달힌다. 이 과정에서 정보의 손실이 발생할 수 있다. LSTM 모델이란 이 경로를 두 개로 각각 분리한 것이다.\n\n\n\n\n\n\n \n\n\n\n\n\nRNN의 문제점; KABOOM!!!은 explode, poof!!! vanish를 의미한다."
+  },
+  {
+    "objectID": "posts/statsquest-LM/2024-02-14-lstm.html#기본-구조",
+    "href": "posts/statsquest-LM/2024-02-14-lstm.html#기본-구조",
+    "title": "Long Short-Term Memory (LSTM) Network",
+    "section": "기본 구조",
+    "text": "기본 구조\nLSTM의 기본 구조는 복잡해보이지만, 아이디어는 단순하다.\n\n\n\n\n\n\n\n\n\nLSTM의 아이디어\n\n\n\n\n \n\n\n\n\n\nLSTM의 기본 구조\n\n\n\n\n \n\n\n\n\n\n웨이트와 바이어스가 없는 장기 기억\n\n\n\n\n\n\n \n\n\n장기와 단기의 정보를 별도로 전달하는 발상이 LSTM이다."
+  },
+  {
+    "objectID": "posts/statsquest-LM/2024-02-14-lstm.html#three-gates",
+    "href": "posts/statsquest-LM/2024-02-14-lstm.html#three-gates",
+    "title": "Long Short-Term Memory (LSTM) Network",
+    "section": "Three Gates",
+    "text": "Three Gates\n원래 용어에 따르면 LSTM은 세 개의 게이트로 구성되어 있다.\n\nForget Gate; 장기 기억을 할인하는 과정을 의미한다.\nInput Gate; 새로운 정보를 장기 기억에 추가하는 과정을 의미한다.\nOutput Gate; 장기 기억을 바탕으로 새로운 단기 정보를 생성하는 과정을 의미한다.\n\n전기에서 넘어온 장기 기억과 단기 기억이 존재한다고 가정하자.\n업데이트에는 Sigmoid 함수와 Tanh 함수를 사용한다. 두 함수의 특성을 보면 활용하는 이유를 알 수 있다. Sigmoid 함수는 0과 1 사이의 값을 가지며, Tanh 함수는 -1과 1 사이의 값을 가진다. 전자는 기억을 할인하는 비율을 결정하고 후자는 기억 자체의 크기를 결정한다.\n\n\n\n\n\n\n\n\n\nSigmoid 함수\n\n\n\n\n \n\n\n\n\n\nTanh 함수\n\n\n\n\n\n아래와 같이 표로 정리해보자.\n\n\n\n\n\n\n\n\n\n게이트\n업데이트 정보\nSigmoid\nTanh\n\n\n\n\nForget Gate\n장기 기억\n단기 기억, 인풋\n-\n\n\nInput Gate\n포겟 게이트의 장기 기억\n단기 기억, 인풋\n단기 기억, 인풋\n\n\nOutput Gate\n단기 기억\n단기 기억, 인풋\n인풋 게이트의 장기 기억\n\n\n\n\nForget Gate\n단기 기억과 인풋을 받아서 장기 기억을 할인한다.\n\n\nInput Gate\n인풋이 장기기억을 어떻게 형성하는지를 표현한다. 이때 전기의 단기 기억과 인풋이 사용된다. 인풋과 전기의 단기 기억이 장기 기억의 크기를 Tanh 함수를 통해서 결정하고, Sigmonoid 함수를 통해서 얼마나 장기 기억에 추가할지를 결정한다.\n앞서 Forget Gate에서 할인된 장기 기억에 이 값을 더해 새 장기기억이 결정된다.\n\n\nOutput Gate\n업데이트된 장기기억, 전기의 단기기억, 그리고 인풋 세 값이 단기기억을 업데이트한다. 장기 기억의 일부가 단기 기억으로 전환된다. 다만 앞서 인풋을 통해 장기기억을 업데이트했으므로 Output Gate에서 인풋과 전기의 단기기억은 단기 기억 자체의 크기에는 영향을 주지 않고 비율에만 영향을 준다."
+  },
+  {
+    "objectID": "posts/statsquest-LM/2024-02-14-lstm.html#how-to-work",
+    "href": "posts/statsquest-LM/2024-02-14-lstm.html#how-to-work",
+    "title": "Long Short-Term Memory (LSTM) Network",
+    "section": "How to Work",
+    "text": "How to Work\n이렇게 하나의 유닛이 매 기에 들어오는 정보를 처리한다고 보면 된다. 아래 예시에서 1기에 정보가 세 단계의 LSTM 유닛을 거쳐서 처리되 이런 유닛들이 이어져 마지막 정보까지 처리된다.\n\n\n\n\n\n\n\n\n\nDay 1의 LSTM 처리\n\n\n\n\n \n\n\n\n\n\nDay4까지의 처리를 통해 Day 5 예측"
+  },
+  {
+    "objectID": "posts/statsquest-LM/2024-02-13-statquest-rnn.html",
+    "href": "posts/statsquest-LM/2024-02-13-statquest-rnn.html",
+    "title": "Recurrent Neural Network",
+    "section": "",
+    "text": "RNN 찍먹하자."
+  },
+  {
+    "objectID": "posts/statsquest-LM/2024-02-13-statquest-rnn.html#tl-dr",
+    "href": "posts/statsquest-LM/2024-02-13-statquest-rnn.html#tl-dr",
+    "title": "Recurrent Neural Network",
+    "section": "",
+    "text": "RNN 찍먹하자."
+  },
+  {
+    "objectID": "posts/statsquest-LM/2024-02-13-statquest-rnn.html#기본-구조",
+    "href": "posts/statsquest-LM/2024-02-13-statquest-rnn.html#기본-구조",
+    "title": "Recurrent Neural Network",
+    "section": "기본 구조",
+    "text": "기본 구조\nRNN은 Recurrent Neural Network의 약자로, 시퀀스 데이터를 처리하는 데 사용되는 신경망이다. 시퀀스 데이터란, 데이터의 순서가 중요한 데이터를 말한다. 예를 들어, 문장, 음성, 동영상 등이 있다. RNN은 이러한 계열, 순서를 지니는 데이터에 활용된다.\n다른 신경망과 구별되는 RNN의 핵심 발상은 한번 신경망을 거친 결과가 뒤에 따라온 데이터와 함께 학습에 다시 활용된다는 것이다. 그림으로 표현한 아래의 내용을 확인하자.\n\n\n\n\n\n\n\n\n\n피드백 루프로 표현하는 방식\n\n\n\n\n \n\n\n\n\n\n나란히 아래로 표현하는 방식\n\n\n\n\n\n피드백 루프로 표현하는 방식이 혼란의 여지가 있으므로 나란히 표현하는 방식을 활용해 구체적인 계산을 살펴보자.\n\n\n\n\n\n\n \n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n투입이 3개일 때\n\n\n\n\n \n\n\n\n\n\n같은 웨이트와 바이어스를 공유한다!"
+  },
+  {
+    "objectID": "posts/statsquest-LM/2024-02-13-statquest-rnn.html#약점",
+    "href": "posts/statsquest-LM/2024-02-13-statquest-rnn.html#약점",
+    "title": "Recurrent Neural Network",
+    "section": "약점",
+    "text": "약점\n피드백 루프가 점점 커지거나 피드백 루프가 점점 약해지는 것을 막기 힘들다. 이는 무엇을 의미할까? 체인의 법칙에 따라서 역전파를 하는 상황을 생각해보자. 이에 따라서 특정 도함수의 계수가 지나치게 크거나 작아지게 된다. 이는 학습률에 따른 탐색 범위를 지나치게 왔다갔다 하게되거나 특정 범위를 벗어나지 못하게 만들 수 있다.\n\n\n\n\n\n\n\n\n\n너무 큰 웨이트를 지닐 때 효과가 증폭된다.\n\n\n\n\n \n\n\n\n\n\n역전파시 경사하강의 탐색 경로에 문제가 생길 수 있다.\n\n\n\n\n\n\n\n\n\n탐색 범위가 큰 값과 작은 값을 오간다.\n\n\n\n\n \n\n\n\n\n\n탐색 범위가 과하게 좁아진다."
+  },
+  {
+    "objectID": "posts/statsquest-LM/2024-02-13-statquest-rnn.html#몇-가지-더",
+    "href": "posts/statsquest-LM/2024-02-13-statquest-rnn.html#몇-가지-더",
+    "title": "Recurrent Neural Network",
+    "section": "몇 가지 더",
+    "text": "몇 가지 더\n만일 문장의 토큰(단어)를 투입해야 하는 경우를 생각해보자. 당연히 단어를 그대로 넣을 수 없으니 W2V과 같은 방법을 써서 토큰을 벡터로 바꿔야 한다. 이때 RNN의 역전파 과정에서 이 W2V 네트워크 역시 조정될 수 있다는 점을 기억하자.\n시퀀셜 데이터를 인풋으로 쓰기 때문에 인풋의 길이를 어느 정도는 통제할 수 있다. 예를 들어 10개의 시리즈를 지닌 데이터와 5개의 데이터를 지닌 시리즈가 있다고 하자. 인풋으로 2개를 쓴다면, 이 두 시리즈 모두를 RNN 학습에 동원할 수 있다."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "learn.lostineconomics.com",
+    "section": "",
+    "text": "몬티홀 문제\n\n\n\n\n\n\necon\n\n\ncausal-inference\n\n\nscott-cunningham\n\n\n\n두괄식으로 그리고 엄밀하게\n\n\n\n\n\nNov 20, 2024\n\n\nJS HUHH\n\n\n\n\n\n\n\n\n\n\n\n\nMatrix Algebra and Neural Networks\n\n\n\n\n\n\nmachine-learning\n\n\nstatquest\n\n\n\n선형 대수는 어떻게 표현을 간략하게 만드는가?\n\n\n\n\n\nFeb 22, 2024\n\n\nJS HUHH\n\n\n\n\n\n\n\n\n\n\n\n\nAttention Model\n\n\n\n\n\n\nmachine-learning\n\n\nstatquest\n\n\n\n관심은 어떻게 네트워크에 반영될까?\n\n\n\n\n\nFeb 16, 2024\n\n\nJS HUHH\n\n\n\n\n\n\n\n\n\n\n\n\nSequence to Sequence Model\n\n\n\n\n\n\nmachine-learning\n\n\nstatquest\n\n\n\nEncoder-Decoder 구조를 알아보자.\n\n\n\n\n\nFeb 15, 2024\n\n\nJS HUHH\n\n\n\n\n\n\n\n\n\n\n\n\nLong Short-Term Memory (LSTM) Network\n\n\n\n\n\n\nmachine-learning\n\n\nstatquest\n\n\n\nRNN의 문제를 해결해보자.\n\n\n\n\n\nFeb 14, 2024\n\n\nJS HUHH\n\n\n\n\n\n\n\n\n\n\n\n\nRecurrent Neural Network\n\n\n\n\n\n\nmachine-learning\n\n\nstatquest\n\n\n\nRNN에 대해서 알아보자.\n\n\n\n\n\nFeb 14, 2024\n\n\nJS HUHH\n\n\n\n\n\n\n\n\n\n\n\n\nTransformer\n\n\n\n\n\n\nmachine-learning\n\n\nstatquest\n\n\n\nTransformer 찍먹하자.\n\n\n\n\n\nFeb 13, 2024\n\n\nJS HUHH\n\n\n\n\n\n\n\n\n\n\n\n\nWord2Vec\n\n\n\n\n\n\nmachine-learning\n\n\nstatquest\n\n\n\nWord2Vec에 대한 기본 이해\n\n\n\n\n\nFeb 7, 2024\n\n\nJS HUHH\n\n\n\n\n\n\nNo matching items"
   }
 ]
