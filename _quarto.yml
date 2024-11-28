@@ -17,6 +17,7 @@ website:
   #body-header: google_analytics.html
 format:
   html:
+    lightbox: true
     include-before-body: "google_analytics.html"
     theme: [cosmo, anari-custom.scss] 
       #dark: [vapor, theme-dark.scss, anari-custom.scss]  
